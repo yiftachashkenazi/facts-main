@@ -1,0 +1,37 @@
+# Core API dependencies - updated for compatibility
+fastapi==0.115.0
+uvicorn==0.24.0
+pydantic==2.4.2
+python-dotenv==1.0.0
+
+# Google Gen AI SDK - compatible version
+google-genai==1.15.0
+
+# OpenAI for verification LLM
+openai==1.55.0
+
+# Data processing - updated for Python 3.12 compatibility
+numpy>=1.26.0
+scikit-learn>=1.3.0
+
+# Web scraping and RSS
+feedparser==6.0.10
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Wikipedia
+wikipedia==1.4.0
+
+# Utilities
+PyYAML==6.0.1
+python-dateutil==2.8.2
+schedule==1.2.0
+
+# HTTP client
+aiohttp==3.9.1
+
+# For SimpleSimilarityModel (lightweight alternative)
+# Note: sentence-transformers is optional - only needed for full ML features
+# sentence-transformers==3.3.1
+# torch==2.5.1
+# transformers==4.46.3 

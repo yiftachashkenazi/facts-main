@@ -1,0 +1,59 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pylint]
+max-line-length = 120
+disable = [
+    "C0111",  # missing-docstring
+    "C0103",  # invalid-name
+    "C0301",  # line-too-long
+    "C0330",  # bad-continuation
+    "C0326",  # bad-whitespace
+    "W0311",  # bad-indentation
+    "W0603",  # global-statement
+    "W0621",  # redefined-outer-name
+    "W0703",  # broad-except
+    "R0903",  # too-few-public-methods
+    "R0913",  # too-many-arguments
+    "R0914",  # too-many-locals
+    "R0915",  # too-many-statements
+]
+
+[tool.pylint.format]
+max-line-length = 120
+single-line-if-stmt = true
+no-space-check = "trailing-comma,dict-separator"
+max-module-lines = 2000
+indent-string = "    "
+
+[tool.pylint.messages_control]
+disable = [
+    "C0111",  # missing-docstring
+    "C0103",  # invalid-name
+    "C0301",  # line-too-long
+    "C0330",  # bad-continuation
+    "C0326",  # bad-whitespace
+    "W0311",  # bad-indentation
+    "W0603",  # global-statement
+    "W0621",  # redefined-outer-name
+    "W0703",  # broad-except
+    "R0903",  # too-few-public-methods
+    "R0913",  # too-many-arguments
+    "R0914",  # too-many-locals
+    "R0915",  # too-many-statements
+]
+
+[tool.pylint.basic]
+good-names = ["i", "j", "k", "ex", "Run", "_", "id", "f", "fp"]
+
+[tool.pylint.similarities]
+min-similarity-lines = 4
+ignore-comments = true
+ignore-docstrings = true
+ignore-imports = false
+
+[tool.pylint.spelling]
+spelling-dict = "en_US"
+spelling-ignore-words-list = ""
+spelling-store-unknown-words = "n" 

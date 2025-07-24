@@ -1,0 +1,125 @@
+{
+  "phase": "calibration",
+  "query": "Author: כאן חדשות\n\n[Part 2 of 2]\n\nתגובת הסנגורים של החשודה גיא ארנברג וגיורא זילברשטיין: \"טרם קיבלנו את כתב האישום וחומר הראיות ובשלב זה לא נוכל להגיב לעניין החשדות\". בפרשת הריגול עבור איראן הראשונה ברצף האחרון, נאשם מוטי ממן, תושב אשקלון בן 73, כי גויס על ידי גורמי מודיעין באיראן למטרת התנקשות באישים ישראלים, כשבין היעדים היו נתניהו, שר הביטחון לשעבר יואב גלנט וראש שב\"כ לשעבר רונן בר.",
+  "author": null,
+  "timestamp": "2025-07-23T13:09:26.686109+00:00",
+  "author_info": {},
+  "summary": {
+    "total_events_analyzed": 3,
+    "rss_matches": 0,
+    "wikipedia_characters": 8,
+    "calibration_events": 0
+  },
+  "user_events": [
+    {
+      "event_numeric_id": 1,
+      "is_first_event": true,
+      "linkage_to_previous_event_in_text": "none",
+      "event": "The suspect's lawyers, G.A. and G.Z., stated they haven't received the indictment and evidence.",
+      "characters": [
+        "G.A.",
+        "G.Z."
+      ],
+      "class": "quote",
+      "quote": "טרם קיבלנו את כתב האישום וחומר הראיות ובשלב זה לא נוכל להגיב לעניין החשדות",
+      "direct_quote": true,
+      "reference_to_quote_or_conclusion": "narrator",
+      "time_frame": "present",
+      "estimate_time": "Current time of statement",
+      "details": "The lawyers are responding to allegations against their client.",
+      "is_last_event": false
+    },
+    {
+      "event_numeric_id": 2,
+      "is_first_event": false,
+      "linkage_to_previous_event_in_text": "temporal",
+      "event": "M.M., a 73-year-old resident of Ashkelon, is accused of being recruited by Iranian intelligence to assassinate Israeli figures.",
+      "characters": [
+        "M.M.",
+        "Iranian intelligence",
+        "Israeli figures"
+      ],
+      "class": "narrative",
+      "quote": null,
+      "direct_quote": false,
+      "reference_to_quote_or_conclusion": "narrator",
+      "time_frame": "past",
+      "estimate_time": "Past recruitment and alleged assassination plot",
+      "details": "This is related to a previous espionage case for Iran.",
+      "is_last_event": false
+    },
+    {
+      "event_numeric_id": 3,
+      "is_first_event": false,
+      "linkage_to_previous_event_in_text": "temporal",
+      "event": "The targets of the alleged assassination plot included Netanyahu, former Defense Minister Yoav Galant, and former Shin Bet chief Ronen Bar.",
+      "characters": [
+        "Netanyahu",
+        "Yoav Galant",
+        "Ronen Bar",
+        "M.M."
+      ],
+      "class": "narrative",
+      "quote": null,
+      "direct_quote": false,
+      "reference_to_quote_or_conclusion": "narrator",
+      "time_frame": "past",
+      "estimate_time": "Past time of the alleged plot",
+      "details": "Details of the alleged targets of the assassination plot.",
+      "is_last_event": true
+    }
+  ],
+  "rss_payload": [],
+  "matches_dict": {},
+  "character_info": {
+    "Iranian intelligence": {
+      "quote": "The Ministry of Intelligence of the Islamic Republic of Iran (Persian: وزارت اطّلاعات جمهوری اسلامی ایران, romanized: Vezarat-e Ettela'at Jomhuri-ye Eslami-ye Iran), also known as the Ministry of Intelligence and Security (MOIS), is the primary intelligence agency, and secret police force, of the Islamic Republic of Iran and a member of the Iran Intelligence Community. It is also known as VAJA and previously as VEVAK (Vezarat-e Ettela'at va Amniyat-e Keshvar). It was initially known as SAVAMA, a",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Intelligence_(Iran)",
+      "summary": "The Ministry of Intelligence of the Islamic Republic of Iran (Persian: وزارت اطّلاعات جمهوری اسلامی ایران, romanized: Vezarat-e Ettela'at Jomhuri-ye Eslami-ye Iran), also known as the Ministry of Intelligence and Security (MOIS), is the primary intelligence agency, and secret police force, of the Islamic Republic of Iran and a member of the Iran Intelligence Community. It is also known as VAJA and previously as VEVAK (Vezarat-e Ettela'at va Amniyat-e Keshvar). It was initially known as SAVAMA, a",
+      "content": "The Ministry of Intelligence of the Islamic Republic of Iran (Persian: وزارت اطّلاعات جمهوری اسلامی ایران, romanized: Vezarat-e Ettela'at Jomhuri-ye Eslami-ye Iran), also known as the Ministry of Intelligence and Security (MOIS), is the primary intelligence agency, and secret police force, of the Islamic Republic of Iran and a member of the Iran Intelligence Community. It is also known as VAJA and previously as VEVAK (Vezarat-e Ettela'at va Amniyat-e Keshvar). It was initially known as SAVAMA, after it took over the Shah's intelligence apparatus SAVAK. The ministry is one of the three \"sovereign\" ministerial bodies of Iran due to nature of its work at home and abroad.\n\n\n== History ==\nReliable and valid information on the ministry is often difficult to obtain. Initially, the organization was known as SAVAMA, and intended to replace SAVAK, Iran's intelligence agency during the rule of the Shah, but it is unclear how much continuity there is between the two organizations—while their role is similar, their underlying ideology is radically different. It is suspected that the new government was initially eager to purge SAVAK elements from the new organization, but that pragmatism eventually prevailed, with many experienced SAVAK personnel being retained in their roles. Former SAVAK staff are believed to have been important in the ministry's infiltration of left-wing dissident groups and of the Iraqi Ba'ath Party.\nThe formation of the ministry was proposed by Saeed Hajjarian to the government of Mir-Hossein Mousavi and then the parliament. There were debates about which branch of the state should oversee the new institution, and the other options apart from the presidency were the Judiciary system, the Supreme Leader, and Islamic Revolutionary Guard Corps. Finally, the government got the approval of Ayatollah Khomeini to make it a ministry, but a restriction was added to the requirements of the minister: that he must be a doctor of Islam.\nThe ministry was finally founded o"
+    },
+    "M.M.": {
+      "quote": "M, or m, is the thirteenth letter of the Latin alphabet, used in the modern English alphabet, the alphabets of several western European languages and others worldwide. Its name in English is em (pronounced  ), plural ems.\n\n",
+      "url": "https://en.wikipedia.org/wiki/M",
+      "summary": "M, or m, is the thirteenth letter of the Latin alphabet, used in the modern English alphabet, the alphabets of several western European languages and others worldwide. Its name in English is em (pronounced  ), plural ems.\n\n",
+      "content": "M, or m, is the thirteenth letter of the Latin alphabet, used in the modern English alphabet, the alphabets of several western European languages and others worldwide. Its name in English is em (pronounced  ), plural ems.\n\n\n== History ==\n\nThe letter M is derived from the Phoenician Mem via the Greek Mu (Μ, μ). Semitic Mem is most likely derived from a \"Proto-Sinaitic\"  (Bronze Age) adoption of the \"water\" ideogram in Egyptian writing. The Egyptian sign had the acrophonic value /n/, from the Egyptian word for \"water\", nt; the adoption as the Semitic letter for /m/ was presumably also on acrophonic grounds, from the Semitic word for \"water\", *mā(y)-.\n\n\n== Use in writing systems ==\n\n\n=== English ===\nIn English, ⟨m⟩ represents the voiced bilabial nasal /m/.\nThe Oxford English Dictionary (first edition) says that ⟨m⟩ is sometimes a vowel, such as in words like spasm and in the suffix -ism. In modern terminology, this is described as a syllabic consonant (IPA: /m̩/).\nM is the fourteenth most frequently used letter in the English language.\n\n\n=== Other languages ===\nThe letter ⟨m⟩ represents the voiced bilabial nasal /m/ in the orthography of Latin as well as in those of many modern languages. \nIn Washo, lower-case ⟨m⟩ represents a voiced bilabial nasal /m/, while upper-case ⟨M⟩ represents a voiceless bilabial nasal /m̥/.\n\n\n=== Other systems ===\nIn the International Phonetic Alphabet, ⟨m⟩ represents the voiced bilabial nasal /m/.\n\n\n== Other uses ==\n\nThe Roman numeral M represents the number 1000, though it was not used in Roman times. There is, however, scant evidence that the letter was later introduced in the early centuries A.D. by the Romans.\nUnit prefix M (mega), meaning one million times, and m (milli) meaning one-thousandth.\nm is the standard abbreviation for metre (or meter) in the International System of Units (SI). However, m is also used as an abbreviation for mile.\nM is used as the unit abbreviation for molarity.\nWith money amounts, m or M is ambiguous.  In the "
+    },
+    "G.Z.": {
+      "quote": "Z, or z, is the twenty-sixth and last letter of the Latin alphabet. It is used in the modern English alphabet, in the alphabets of other Western European languages, and in others worldwide. Its usual names in English are zed (), which is most commonly used in British English, and zee ( ), most commonly used in American English, with an occasional archaic variant izzard ().\n\n",
+      "url": "https://en.wikipedia.org/wiki/Z",
+      "summary": "Z, or z, is the twenty-sixth and last letter of the Latin alphabet. It is used in the modern English alphabet, in the alphabets of other Western European languages, and in others worldwide. Its usual names in English are zed (), which is most commonly used in British English, and zee ( ), most commonly used in American English, with an occasional archaic variant izzard ().\n\n",
+      "content": "Z, or z, is the twenty-sixth and last letter of the Latin alphabet. It is used in the modern English alphabet, in the alphabets of other Western European languages, and in others worldwide. Its usual names in English are zed (), which is most commonly used in British English, and zee ( ), most commonly used in American English, with an occasional archaic variant izzard ().\n\n\n== Name ==\n\nIn most English-speaking countries, including Australia, Canada, India, Ireland, New Zealand, South Africa and the United Kingdom, the letter's name is zed , reflecting its derivation from the Greek letter zeta (this dates to Latin, which borrowed Y and Z from Greek), but in American English its name is zee , analogous to the names for B, C, D, etc., and deriving from a late 17th-century English dialectal form.\nAnother English dialectal form is izzard . This dates from the mid-18th century and probably derives from Occitan izèda or the French ézed, whose reconstructed Latin form would be *idzēta, perhaps a Vulgar Latin form with a prosthetic vowel. Outside of the anglosphere, its variants are still used in Hong Kong English and Cantonese.\nOther languages spell the letter's name in a similar way: zeta in Italian, Basque, and Spanish, seta in Icelandic (no longer part of its alphabet but found in personal names), zê in Portuguese, zäta in Swedish, zæt in Danish, zet in Dutch, Indonesian, Polish, Romanian, and Czech, Zett in German (capitalized as a noun), zett in Norwegian, zède in French, zetto (ゼット) in Japanese, and giét in Vietnamese (not part of its alphabet). Several languages render it as /ts/ or /dz/, e.g. tseta /ˈtsetɑ/ or more rarely tset /tset/ in Finnish (sometimes dropping the first t altogether; /ˈsetɑ/, or /set/ the latter of which is not very commonplace). In Standard Chinese pinyin, the name of the letter Z is pronounced [tsɨ], as in \"zi\", although the English zed and zee have become very common. In Esperanto the name of the letter Z is pronounced /zo/.\n\n\n== History ==\n"
+    },
+    "Israeli figures": {
+      "quote": "On 21 November 2024, following an investigation of war crimes and crimes against humanity, the International Criminal Court (ICC) issued arrest warrants for two senior Israeli officials, Benjamin Netanyahu, the Prime Minister of Israel, and Yoav Gallant, the former Minister of Defense of Israel, alleging responsibility for the war crime of starvation as a method of warfare and the crimes against humanity of murder, persecution, and other inhumane acts during the Gaza war. The warrant against Net",
+      "url": "https://en.wikipedia.org/wiki/International_Criminal_Court_arrest_warrants_for_Israeli_leaders",
+      "summary": "On 21 November 2024, following an investigation of war crimes and crimes against humanity, the International Criminal Court (ICC) issued arrest warrants for two senior Israeli officials, Benjamin Netanyahu, the Prime Minister of Israel, and Yoav Gallant, the former Minister of Defense of Israel, alleging responsibility for the war crime of starvation as a method of warfare and the crimes against humanity of murder, persecution, and other inhumane acts during the Gaza war. The warrant against Net",
+      "content": "On 21 November 2024, following an investigation of war crimes and crimes against humanity, the International Criminal Court (ICC) issued arrest warrants for two senior Israeli officials, Benjamin Netanyahu, the Prime Minister of Israel, and Yoav Gallant, the former Minister of Defense of Israel, alleging responsibility for the war crime of starvation as a method of warfare and the crimes against humanity of murder, persecution, and other inhumane acts during the Gaza war. The warrant against Netanyahu is the first against the leader of a Western-backed democratic country  for war crimes.\nAll 125 ICC member states, including France and the United Kingdom, are required to arrest Netanyahu and Gallant if they enter the state's territory. The ICC also issued an arrest warrant for Hamas military commander Mohammed Deif, who was killed in an Israeli airstrike on 13 July 2024 but whose death remained unconfirmed at the time. By January 2025 Hamas confirmed Deif's death, and a few weeks later the ICC cancelled the arrest warrant against him. Warrants may still be issued against additional Israeli senior IDF officers involved in the Gaza war.\n\n\n== Background ==\n\nThe ICC was established in 2002 to prosecute war crimes, crimes against humanity, genocide, and the crime of aggression when member states are unwilling or unable to do so. It can also prosecute crimes committed by nationals or on territory of any of its 124 member states. It currently is also investigating crimes committed in Ukraine, Uganda, and others. The Palestinian territories were admitted as a member state in 2015, allowing for the investigation even though Israel is not a member and does not recognize its jurisdiction.\nAll of the 124 member states of the ICC are obliged by their agreements to the courts founding statute to arrest and hand over any individual with an active ICC arrest warrant, if they are identified in their territory. The ICC does not have a way of directly implementing an arrest, with no au"
+    },
+    "Ronen Bar": {
+      "quote": "No Wikipedia entry found for Ronen Bar",
+      "url": "",
+      "summary": "",
+      "content": ""
+    },
+    "Yoav Galant": {
+      "quote": "Yoav Gallant (Hebrew: יוֹאָב גָּלַנְט‎, romanized: Yo'av Galant; born 8 November 1958) is an Israeli politician and former military officer who served as minister of defense between 2022 and 2024. Gallant was an officer in the Southern Command of the Israel Defense Forces, serving in the Israeli Navy. In January 2015 he entered politics, joining the new Kulanu party. After being elected to the Knesset he was appointed minister of construction. At the end of 2018 he joined Likud, shortly after wh",
+      "url": "https://en.wikipedia.org/wiki/Yoav_Gallant",
+      "summary": "Yoav Gallant (Hebrew: יוֹאָב גָּלַנְט‎, romanized: Yo'av Galant; born 8 November 1958) is an Israeli politician and former military officer who served as minister of defense between 2022 and 2024. Gallant was an officer in the Southern Command of the Israel Defense Forces, serving in the Israeli Navy. In January 2015 he entered politics, joining the new Kulanu party. After being elected to the Knesset he was appointed minister of construction. At the end of 2018 he joined Likud, shortly after wh",
+      "content": "Yoav Gallant (Hebrew: יוֹאָב גָּלַנְט‎, romanized: Yo'av Galant; born 8 November 1958) is an Israeli politician and former military officer who served as minister of defense between 2022 and 2024. Gallant was an officer in the Southern Command of the Israel Defense Forces, serving in the Israeli Navy. In January 2015 he entered politics, joining the new Kulanu party. After being elected to the Knesset he was appointed minister of construction. At the end of 2018 he joined Likud, shortly after which he became minister of Aliyah and Integration. \nIn 2020 he was appointed minister of education, and the following year became minister of defense. On 5 November 2024, Prime Minister Benjamin Netanyahu announced that he had dismissed Gallant, effective 7 November, and sought to have Israel Katz replace him. Gallant subsequently resigned from the Knesset on 5 January 2025. \nOn 21 November 2024, the International Criminal Court issued an arrest warrant for Gallant along with Netanyahu and three Hamas leaders for alleged war crimes and crimes against humanity committed during the Gaza war.\n\n\n== Biography ==\nYoav Gallant was born on 8 November 1958 in Jaffa to Polish Jewish immigrants. His mother, Fruma, was a Holocaust survivor who had been on the SS Exodus as a child. Along with other Exodus refugees, she was deported by the British to Hamburg, and arrived in Israel in 1948. She was a nurse by profession. His father, Michael, fought the Nazis as a partisan in the forests of Ukraine and Belarus, and also immigrated to Israel in 1948. He served in the Givati Brigade in the 1948 Arab–Israeli War, including the Samson's Foxes unit, and was considered one of the finest snipers in the IDF. He participated in Operation Yoav, during which he was the first soldier to break into the fort at Iraq Suwaydan. He named his son for the operation. In Gallant's youth, the family moved to Givatayim, where he studied at David Kalai High School. He received a BA in Business and Finance Management"
+    },
+    "G.A.": {
+      "quote": "A, or a, is the first letter and the first vowel letter of the Latin alphabet, used in the modern English alphabet, and others worldwide. Its name in English is a (pronounced   AY), plural aes.\nIt is similar in shape to the Ancient Greek letter alpha, from which it derives. The uppercase version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lowercase version is often written in one of two forms: the double-storey |a| and single-storey |ɑ|. The l",
+      "url": "https://en.wikipedia.org/wiki/A",
+      "summary": "A, or a, is the first letter and the first vowel letter of the Latin alphabet, used in the modern English alphabet, and others worldwide. Its name in English is a (pronounced   AY), plural aes.\nIt is similar in shape to the Ancient Greek letter alpha, from which it derives. The uppercase version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lowercase version is often written in one of two forms: the double-storey |a| and single-storey |ɑ|. The l",
+      "content": "A, or a, is the first letter and the first vowel letter of the Latin alphabet, used in the modern English alphabet, and others worldwide. Its name in English is a (pronounced   AY), plural aes.\nIt is similar in shape to the Ancient Greek letter alpha, from which it derives. The uppercase version consists of the two slanting sides of a triangle, crossed in the middle by a horizontal bar. The lowercase version is often written in one of two forms: the double-storey |a| and single-storey |ɑ|. The latter is commonly used in handwriting and fonts based on it, especially fonts intended to be read by children, and is also found in italic type.\nIn English, a is the indefinite article, with the\nalternative form an.\n\n\n== Name ==\nIn English, the name of the letter is the long A sound, pronounced . Its name in most other languages matches the letter's pronunciation in open syllables.\n\n\n== History ==\nThe earliest known ancestor of A is aleph—the first letter of the Phoenician alphabet—where it represented a glottal stop [ʔ], as Phoenician only used  consonantal letters. In turn, the ancestor of aleph may have been a pictogram of an ox head in proto-Sinaitic script influenced by Egyptian hieroglyphs, styled as a triangular head with two horns extended.\nWhen the ancient Greeks adopted the alphabet, they had no use for a letter representing a glottal stop—so they adapted the sign to represent the vowel /a/, calling the letter by the similar name alpha. In the earliest Greek inscriptions dating to the 8th century BC following the Greek Dark Ages, the letter rests upon its side. However, in the later Greek alphabet it generally resembles the modern capital form—though many local varieties can be distinguished by the shortening of one leg, or by the angle at which the cross line is set.\nThe Etruscans brought the Greek alphabet to the Italian Peninsula, and left the form of alpha unchanged. When the Romans adopted the Etruscan alphabet to write Latin, the resulting form used in the Lat"
+    },
+    "Netanyahu": {
+      "quote": "Benjamin \"Bibi\" Netanyahu (born 21 October 1949) is an Israeli politician and diplomat who has served as Prime Minister of Israel since 2022",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+      "summary": "Benjamin \"Bibi\" Netanyahu (born 21 October 1949) is an Israeli politician and diplomat who has served as Prime Minister of Israel since 2022. Having previously held office from 1996 to 1999 and from 2009 to 2021, Netanyahu is Israel's longest-serving prime minister.\nBorn in Tel Aviv, Netanyahu was raised in West Jerusalem and the United States. He returned to Israel in 1967 to join the Israel Defense Forces and served in the Sayeret Matkal special forces. In 1972, he returned to the US, and afte",
+      "content": "Benjamin \"Bibi\" Netanyahu (born 21 October 1949) is an Israeli politician and diplomat who has served as Prime Minister of Israel since 2022. Having previously held office from 1996 to 1999 and from 2009 to 2021, Netanyahu is Israel's longest-serving prime minister.\nBorn in Tel Aviv, Netanyahu was raised in West Jerusalem and the United States. He returned to Israel in 1967 to join the Israel Defense Forces and served in the Sayeret Matkal special forces. In 1972, he returned to the US, and after graduating from the Massachusetts Institute of Technology, Netanyahu worked for the Boston Consulting Group. He moved back to Israel in 1978 to found the Yonatan Netanyahu Anti-Terror Institute. Between 1984 and 1988 Netanyahu was Israel's ambassador to the United Nations. Netanyahu rose to prominence after election as chair of Likud in 1993, becoming leader of the opposition. In the 1996 general election, Netanyahu became the first Israeli prime minister elected directly by popular vote. Netanyahu was defeated in the 1999 election and entered the private sector. He returned and served as minister of foreign affairs and finance, initiating economic reforms, before resigning over the Gaza disengagement plan.\nNetanyahu returned to lead Likud in 2005, leading the opposition between 2006 and 2009. After the 2009 legislative election, Netanyahu formed a coalition with other right-wing parties and became prime minister again. Netanyahu made his closeness to Donald Trump central to his appeal from 2016. During Trump's first presidency, the US recognized Jerusalem as capital of Israel, Israeli sovereignty over the Golan Heights, and brokered the Abraham Accords between Israel and the Arab world. Netanyahu received criticism over expanding Israeli settlements in the occupied West Bank, deemed illegal under international law. In 2019, Netanyahu was indicted on charges of breach of trust, bribery and fraud, and relinquished all ministerial posts except prime minister. The 2018–2022 Is"
+    }
+  },
+  "calibration_data": []
+}
